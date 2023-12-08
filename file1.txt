@@ -1,7 +1,9 @@
 	HelloWorldFromVimFunction
+	
+	Add New Message
 
-
-
-smd
+	GoodBye World
+		:)
+		
 
 
